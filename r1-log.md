@@ -16,3 +16,10 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Thoughts**: A whole day without Wifi. That kinda affected my today's work too apparently.
 
 **Link(s) to work**: [Day2](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Sliding%20Window/Day2)
+
+### Day 3: June 12, 2022
+
+**Today's Progress**: Did 2 questions. Gave leetcode contest (unfortunately they were off topics for me) so nvm.
+**Thoughts**: Wifi problem still persisted.
+
+**Link(s) to work**: [Day3](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Sliding%20Window/Day3)
