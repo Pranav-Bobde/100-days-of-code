@@ -13,6 +13,7 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 ### Day 2: June 11, 2022
 
 **Today's Progress**: Did 2 questions. Tried 2 more, will try again tomorrow.
+
 **Thoughts**: A whole day without Wifi. That kinda affected my today's work too apparently.
 
 **Link(s) to work**: [Day2](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Sliding%20Window/Day2)
@@ -20,6 +21,7 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 ### Day 3: June 12, 2022
 
 **Today's Progress**: Did 2 questions. Gave leetcode contest (unfortunately they were off topics for me) so nvm.
+
 **Thoughts**: Wifi problem still persisted.
 
 **Link(s) to work**: [Day3](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Sliding%20Window/Day3)
@@ -27,6 +29,7 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 ### Day 4: June 13, 2022
 
 **Today's Progress**: Did 2 more questions & with that my sliding window part is done.
+
 **Thoughts**: In such hard problems, i'd suggest not to waste much time if not getting the logic in your usual time. As it might require you to be aware of some trick or concept that you might not be aware of to solve it.
 
 **Link(s) to work**: [Day4](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Sliding%20Window/Day4)
