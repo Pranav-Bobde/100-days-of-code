@@ -23,3 +23,10 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Thoughts**: Wifi problem still persisted.
 
 **Link(s) to work**: [Day3](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Sliding%20Window/Day3)
+
+### Day 4: June 13, 2022
+
+**Today's Progress**: Did 2 more questions & with that my sliding window part is done.
+**Thoughts**: In such hard problems, i'd suggest not to waste much time if not getting the logic in your usual time. As it might require you to be aware of some trick or concept that you might not be aware of to solve it.
+
+**Link(s) to work**: [Day4](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Sliding%20Window/Day4)
