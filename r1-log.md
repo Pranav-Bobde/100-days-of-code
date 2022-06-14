@@ -33,3 +33,11 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Thoughts**: In such hard problems, i'd suggest not to waste much time if not getting the logic in your usual time. As it might require you to be aware of some trick or concept that you might not be aware of to solve it.
 
 **Link(s) to work**: [Day4](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Sliding%20Window/Day4)
+
+### Day 5: June 14, 2022
+
+**Today's Progress**: Did 4 questions of slow & fast pointers. 
+
+**Thoughts**: Did easy questions for a good start.
+
+**Link(s) to work**: [Day5](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Fast_%26_Slow_Pointers/Day5)
