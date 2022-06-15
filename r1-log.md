@@ -41,3 +41,11 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Thoughts**: Did easy questions for a good start.
 
 **Link(s) to work**: [Day5](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Fast_%26_Slow_Pointers/Day5)
+
+### Day 6: June 15, 2022
+
+**Today's Progress**: Did 2 questions of slow & fast pointers, Revised 2 Questions, tried 2 more;
+
+**Thoughts**: -
+
+**Link(s) to work**: [Day6](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Fast_%26_Slow_Pointers/Day6)
