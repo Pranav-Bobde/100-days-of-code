@@ -49,3 +49,11 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Thoughts**: -
 
 **Link(s) to work**: [Day6](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Fast_%26_Slow_Pointers/Day6)
+
+### Day 7: June 16, 2022
+
+**Today's Progress**: Completed the Fast & Slow Pointer Questions.
+
+**Thoughts**: - LinkedList is still my fav & easiest DS.
+
+**Link(s) to work**: [Day7](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Fast_&_Slow_Pointers/Day7)
