@@ -57,3 +57,11 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Thoughts**: - LinkedList is still my fav & easiest DS.
 
 **Link(s) to work**: [Day7](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Fast_&_Slow_Pointers/Day7)
+
+### Day 8: June 17, 2022
+
+**Today's Progress**: Finally started with Graphs. Saw the terminolgies & DFS, BFS Traversals & Cycle Detection.
+
+**Thoughts**: -
+
+**Link(s) to work**: [Day8](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day1)
