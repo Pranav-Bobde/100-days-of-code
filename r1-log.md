@@ -65,3 +65,12 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Thoughts**: -
 
 **Link(s) to work**: [Day8](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day1)
+
+### Day 9: June 18, 2022
+
+**Today's Progress**: Bipartite graph via BFS & DFS approach. Bit manipulation Qs. Some mock tests going on too.
+
+**Link(s) to work**: 
+- [Day9 - Graphs](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day2)
+- [Day9 - BitManipulation](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Bit_Manipulation)
+
