@@ -74,3 +74,21 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 - [Day9 - Graphs](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day2)
 - [Day9 - BitManipulation](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Bit_Manipulation)
 
+### Day 10: June 19, 2022
+
+**Today's Progress**: Setup dev & prod environments in docker.
+
+**Link(s) to work**: [Day10](https://github.com/Pranav-Bobde/docker-node-app/commit/06c83cbb654ad810cb8492c1d2d7f9d1226192ba)
+
+### Day 11: June 20, 2022
+
+**Today's Progress**: Running another container instance (mongo).
+
+**Link(s) to work**: [Day11](https://github.com/Pranav-Bobde/docker-node-app/commit/4423ee9525fab308b07f52ffbbe12735f8a1e204)
+
+### Day 12: June 21, 2022
+
+**Today's Progress**: More graphs & old questions revision.
+
+**Link(s) to work**: [Day12](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day3)
+
