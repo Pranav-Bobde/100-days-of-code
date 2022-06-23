@@ -97,3 +97,9 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Today's Progress**: Did cycle detection and topological sort with BFS & a bunch of revision questions.
 
 **Link(s) to work**: [Day13](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day3)
+
+### Day 14: June 23, 2022
+
+**Today's Progress**: Shortest Path graphs questions.
+
+**Link(s) to work**: [Day14](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day4)
