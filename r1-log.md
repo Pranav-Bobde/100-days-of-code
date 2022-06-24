@@ -103,3 +103,9 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Today's Progress**: Shortest Path graphs questions.
 
 **Link(s) to work**: [Day14](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day4)
+
+### Day 15: June 24, 2022
+
+**Today's Progress**: Started to do some binary search problems.
+
+**Link(s) to work**: [Day15](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Binary_Search/Day15)
