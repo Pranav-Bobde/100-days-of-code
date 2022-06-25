@@ -109,3 +109,11 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Today's Progress**: Started to do some binary search problems.
 
 **Link(s) to work**: [Day15](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Binary_Search/Day15)
+
+### Day 16: June 25, 2022
+
+**Today's Progress**: Graph, DailyLeetCodeProb.
+
+**Link(s) to work**: 
+- [Day16 - DLP](https://github.com/Pranav-Bobde/DSA-Logs/blob/main/Random/Day16/Non_Decreasing_Array.java)
+- [Day16 - Graph](https://github.com/Pranav-Bobde/DSA-Logs/blob/main/DSQs/Graphs/Day16/Find_The_Town_Judge.java)
