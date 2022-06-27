@@ -124,3 +124,10 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 
 **Link(s) to work**: [Day17](https://github.com/Pranav-Bobde/DSA-Logs/blob/main/Random/Day16/Non_Decreasing_Array.java)
 
+### Day 18: June 27, 2022
+
+**Today's Progress**: Dijkstra's & Prims's algorithm.
+
+**Link(s) to work**: [Day18](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day18)
+
+
