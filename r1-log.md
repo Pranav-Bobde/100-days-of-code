@@ -130,4 +130,10 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 
 **Link(s) to work**: [Day18](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day18)
 
+### Day 19: June 28, 2022
+
+**Today's Progress**: Graphs - Basics Revised, Union-Find Algo.
+
+**Link(s) to work**: [Day19](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day19)
+
 
