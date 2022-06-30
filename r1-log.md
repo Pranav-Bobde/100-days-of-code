@@ -141,3 +141,9 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Today's Progress**: Graphs FreeCodeCamp. If you looking to start graphs - simply just go with this.
 
 **Link(s) to work**: [Day20](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day20)
+
+### Day 21: June 30, 2022
+
+**Today's Progress**: Was easily able to solve my persi's adv coding que now, after covering basic graph concepts. Sadly can't redo my test again \*sigh\*
+
+**Link(s) to work**: [Day21](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day21)
