@@ -147,3 +147,9 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Today's Progress**: Was easily able to solve my persi's adv coding que now, after covering basic graph concepts. Sadly can't redo my test again \*sigh\*
 
 **Link(s) to work**: [Day21](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day21)
+
+### Day 22: July 1, 2022
+
+**Today's Progress**: Revised recursion & Practised some probs.
+
+**Link(s) to work**: [Day22](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Recursion/Day22)
