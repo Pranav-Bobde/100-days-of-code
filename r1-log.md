@@ -153,3 +153,9 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Today's Progress**: Revised recursion & Practised some probs.
 
 **Link(s) to work**: [Day22](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Recursion/Day22)
+
+### Day 23: July 2, 2022
+
+**Today's Progress**: Contest quizes, company mock test , graphs probs.
+
+**Link(s) to work**: [Day23](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day23)
