@@ -160,13 +160,13 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 
 **Link(s) to work**: [Day23](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSQs/Graphs/Day23)
 
-### Day 24: July 2, 2022
+### Day 24: July 3, 2022
 
 **Today's Progress**: Gfg contest & graph concepts.
 
 **Link(s) to work**: [Day24](https://github.com/Pranav-Bobde/DSA-Logs/blob/main/Random/Day24)
 
-### Day 25: July 3, 2022
+### Day 25: July 4, 2022
 
 **Today's Progress**: Graph + Rev questions.
 
