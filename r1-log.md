@@ -177,3 +177,10 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Today's Progress**: VMWare Mock Test, GFG Job-A-Thon, Graphs Probs.
 
 **Link(s) to work**: [Day26](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day26)
+
+
+### Day 27: July 6, 2022
+
+**Today's Progress**: Unstop Contest, Graphs Probs.
+
+**Link(s) to work**: [Day27](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day27)
