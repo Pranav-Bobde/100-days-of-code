@@ -189,3 +189,11 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Today's Progress**: Graphs Probs.
 
 **Link(s) to work**: [Day28](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day28)
+
+### Day 29: July 8, 2022
+
+**Today's Progress**: Graphs Probs.
+
+**Link(s) to work**: 
+- [Day29](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Random/Day29)
+- [Day29](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day29)
