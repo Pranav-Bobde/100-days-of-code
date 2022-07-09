@@ -197,3 +197,9 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 **Link(s) to work**: 
 - [Day29](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Random/Day29)
 - [Day29](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day29)
+
+### Day 30: July 9, 2022
+
+**Today's Progress**: Toposort & Single Source Shortest Problem.
+
+**Link(s) to work**: [Day30](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Random/Day30)
