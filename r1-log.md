@@ -204,8 +204,8 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 
 **Link(s) to work**: [Day30](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Random/Day30)
 
--------------
-July 10, 2022
+
+### Holiday - July 10, 2022
 
 **Today's Progress**: I did watched dijkstra & bellman ford algo but not code. So, considering it a holiday!?!
--------------
+So, no break day till 24 July now.
