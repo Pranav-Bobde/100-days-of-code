@@ -209,3 +209,10 @@ The log of my #100DaysOfCode challenge. Started on [June 10, Friday, 202].
 
 **Today's Progress**: I did watched dijkstra & bellman ford algo but not code. So, considering it a holiday!?!
 So, no break day till 24 July now.
+
+
+### Day 31: July 10, 2022
+
+**Today's Progress**: BellmanFord, Bridges, Articulation Points, Tarjans Algo.
+
+**Link(s) to work**: [Day31](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Random/Day31)
