@@ -228,6 +228,6 @@ So, no break day till 24 July now.
 **Today's Progress**: Arrays rev, Greedy started, HTML - Semantics, Table.
 
 **Link(s) to work**: - 
-[Day33](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day33)
-[Day33-HTML](https://github.com/Pranav-Bobde/WDJ-HTML)
+- [Day33](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day33)
+- [Day33-HTML](https://github.com/Pranav-Bobde/WDJ-HTML)
 
