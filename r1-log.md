@@ -222,3 +222,12 @@ So, no break day till 24 July now.
 **Today's Progress**: Time Complexity Revision/Probs, an html chapter (of a tutorial).
 
 **Link(s) to work**: -
+
+### Day 33: July 13, 2022
+
+**Today's Progress**: Arrays rev, Greedy started, HTML - Semantics, Table.
+
+**Link(s) to work**: - 
+[Day33](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day33)
+[Day33-HTML](https://github.com/Pranav-Bobde/WDJ-HTML)
+
