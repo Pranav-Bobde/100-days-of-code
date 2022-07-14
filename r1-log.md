@@ -231,3 +231,8 @@ So, no break day till 24 July now.
 - [Day33](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day33)
 - [Day33-HTML](https://github.com/Pranav-Bobde/WDJ-HTML)
 
+### Day 34: July 13, 2022
+
+**Today's Progress**: Greedy interviewbit questions.
+
+**Link(s) to work**: - [Day34](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day34)
