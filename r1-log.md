@@ -244,3 +244,11 @@ So, no break day till 24 July now.
 **Link(s) to work**: 
 - [Day35-Random](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Random/Day35)
 - [Day35-IB](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day35)
+
+### Day 36: July 16, 2022
+
+**Today's Progress**: Arrays, OOPS, OS, HTML-Forms.
+
+**Link(s) to work**: 
+- [Day36-Random](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Random/Day36)
+- [Day36-HTML](https://github.com/Pranav-Bobde/WDJ-HTML/commit/0348b3a834067067e62e2298e06f9b8ec423c7e1)
