@@ -252,3 +252,9 @@ So, no break day till 24 July now.
 **Link(s) to work**: 
 - [Day36-Random](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Random/Day36)
 - [Day36-HTML](https://github.com/Pranav-Bobde/WDJ-HTML/commit/0348b3a834067067e62e2298e06f9b8ec423c7e1)
+
+### Day 37: July 17, 2022
+
+**Today's Progress**: Binary Search Problems.
+
+**Link(s) to work**: [Day36](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Binary_Search/Day37)
