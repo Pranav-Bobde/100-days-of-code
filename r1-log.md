@@ -257,4 +257,10 @@ So, no break day till 24 July now.
 
 **Today's Progress**: Binary Search Problems.
 
-**Link(s) to work**: [Day36](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Binary_Search/Day37)
+**Link(s) to work**: [Day37](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Binary_Search/Day37)
+
+### Day 38: July 18, 2022
+
+**Today's Progress**: Binary Search Problems.
+
+**Link(s) to work**: [Day38](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Binary_Search/Day38)
