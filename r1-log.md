@@ -264,3 +264,9 @@ So, no break day till 24 July now.
 **Today's Progress**: Binary Search Problems.
 
 **Link(s) to work**: [Day38](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/Binary_Search/Day38)
+
+### Day 39: July 19, 2022
+
+**Today's Progress**: LinkedList problems.
+
+**Link(s) to work**: [Day39](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day39)
