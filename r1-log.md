@@ -270,3 +270,9 @@ So, no break day till 24 July now.
 **Today's Progress**: LinkedList problems.
 
 **Link(s) to work**: [Day39](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day39)
+
+### Day 40: July 20, 2022
+
+**Today's Progress**: LinkedList & Stack Problems.
+
+**Link(s) to work**: [Day40](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day40)
