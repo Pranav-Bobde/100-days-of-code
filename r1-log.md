@@ -276,3 +276,9 @@ So, no break day till 24 July now.
 **Today's Progress**: LinkedList & Stack Problems.
 
 **Link(s) to work**: [Day40](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day40)
+
+### Day 41: July 21, 2022
+
+**Today's Progress**: Stack & Matrix Questions. GFG Contest.
+
+**Link(s) to work**: [Day41](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day41)
