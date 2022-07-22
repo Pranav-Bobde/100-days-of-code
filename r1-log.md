@@ -282,3 +282,9 @@ So, no break day till 24 July now.
 **Today's Progress**: Stack & Matrix Questions. GFG Contest.
 
 **Link(s) to work**: [Day41](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day41)
+
+### Day 42: July 22, 2022
+
+**Today's Progress**: Heap Questions, AMCAT Test.
+
+**Link(s) to work**: [Day42](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day42)
