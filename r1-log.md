@@ -288,3 +288,11 @@ So, no break day till 24 July now.
 **Today's Progress**: Heap Questions, AMCAT Test.
 
 **Link(s) to work**: [Day42](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day42)
+
+### Holiday - July 23, 2022
+
+### Day 43: July 24, 2022
+
+**Today's Progress**: Trees rev started.
+
+**Link(s) to work**: [Day43](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day43)
