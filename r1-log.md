@@ -296,3 +296,9 @@ So, no break day till 24 July now.
 **Today's Progress**: Trees rev started.
 
 **Link(s) to work**: [Day43](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day43)
+
+### Day 44: July 25, 2022
+
+**Today's Progress**: Trees Questions
+
+**Link(s) to work**: [Day44](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day44)
