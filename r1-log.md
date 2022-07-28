@@ -319,4 +319,4 @@ So, no break day till 24 July now.
 
 **Today's Progress**: OS revised, gave tests, graphs.
 
-**Link(s) to work**: [Day46](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day47)
+**Link(s) to work**: [Day47](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day47)
