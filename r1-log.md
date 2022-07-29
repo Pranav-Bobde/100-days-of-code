@@ -320,3 +320,9 @@ So, no break day till 24 July now.
 **Today's Progress**: OS revised, gave tests, graphs.
 
 **Link(s) to work**: [Day47](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day47)
+
+### Day 48: July 28, 2022
+
+**Today's Progress**: Started DP.
+
+**Link(s) to work**: [Day48](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day48)
