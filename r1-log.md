@@ -321,8 +321,16 @@ So, no break day till 24 July now.
 
 **Link(s) to work**: [Day47](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day47)
 
-### Day 48: July 28, 2022
+### Day 48: July 29, 2022
 
 **Today's Progress**: Started DP.
 
 **Link(s) to work**: [Day48](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day48)
+
+### Day 49: July 30, 2022
+
+**Today's Progress**: Leetcode contest, freecodecamp first project finished, revised master theorem.
+
+**Link(s) to work**: 
+- DSA: [Day49](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day49)
+- Project: [Project](https://github.com/Pranav-Bobde/freecodecamp-projects/tree/main/Cat-Photo-App)
