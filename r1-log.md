@@ -334,3 +334,10 @@ So, no break day till 24 July now.
 **Link(s) to work**: 
 - DSA: [Day49](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day49)
 - Project: [Project](https://github.com/Pranav-Bobde/freecodecamp-projects/tree/main/Cat-Photo-App)
+
+### Day 50: July 31, 2022
+
+**Today's Progress**: Infosys test, fcc next project started.
+
+**Link(s) to work**: 
+- Project: [Camper Cafe](https://github.com/Pranav-Bobde/freecodecamp-projects/tree/main/Camper-Cafe)
