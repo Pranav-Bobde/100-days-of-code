@@ -349,3 +349,10 @@ So, no break day till 24 July now.
 **Link(s) to work**: 
 - DSA: [Day51](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day51)
 - Project: [Camper Cafe](https://github.com/Pranav-Bobde/freecodecamp-projects/tree/main/Camper-Cafe)
+
+### Day 52: August 2, 2022
+
+**Today's Progress**: Leetcode contest.
+
+**Link(s) to work**: 
+- DSA: [Day52](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day52)
