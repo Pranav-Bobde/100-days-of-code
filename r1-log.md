@@ -356,3 +356,11 @@ So, no break day till 24 July now.
 
 **Link(s) to work**: 
 - DSA: [Day52](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day52)
+
+### Day 53: August 3, 2022
+
+**Today's Progress**: Leetcode contest, local project (practiced html, css)
+
+**Link(s) to work**: 
+- DSA: [Day53](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day53.)
+
