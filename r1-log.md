@@ -364,3 +364,12 @@ So, no break day till 24 July now.
 **Link(s) to work**: 
 - DSA: [Day53](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day53.)
 
+### Day 54: August 4, 2022
+
+**Today's Progress**: Revised some questions, local project (practiced html, css).
+
+**Link(s) to work**: 
+- DSA: [Day54](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day54)
+- Project: [Project](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/b0ca1bfe712019818e3f376421cb93abc3b0fe65)
+
+
