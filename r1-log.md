@@ -372,4 +372,10 @@ So, no break day till 24 July now.
 - DSA: [Day54](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day54)
 - Project: [Project](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/b0ca1bfe712019818e3f376421cb93abc3b0fe65)
 
+### Day 55: August 5, 2022
 
+**Today's Progress**: DSA questions, css - selectors, display, positions.
+
+**Link(s) to work**: 
+- DSA: [Day55](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day55)
+- Project: [Project](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/2441317f574495b216575bee37910c1b5a4e8faf)
