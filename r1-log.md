@@ -387,3 +387,10 @@ So, no break day till 24 July now.
 **Link(s) to work**: 
 - DSA: [Day55](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day56)
 - Project: [Project](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/9b892886bd54fdbf1099d43f1c99a5e95542279b)
+
+### Day 57: August 7, 2022
+
+**Today's Progress**: Revised Ques, Finished intro to bootsrap (Started New Project - Tindog).
+
+**Link(s) to work**: 
+- Project: [Project](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/4150033115fd71a6dfb5cc5cccc948002da85f96)
