@@ -394,3 +394,10 @@ So, no break day till 24 July now.
 
 **Link(s) to work**: 
 - Project: [Project](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/4150033115fd71a6dfb5cc5cccc948002da85f96)
+
+### Day 58: August 8, 2022
+
+**Today's Progress**: Leetcode contest questions.
+
+**Link(s) to work**: 
+- DSA: [Day58](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day58)
