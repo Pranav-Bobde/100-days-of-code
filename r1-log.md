@@ -425,3 +425,10 @@ So, no break day till 24 July now.
 **Link(s) to work**: 
 - DSA: [Day61](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day61)
 - Project: [Drum-Kit Project](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/f1275bdf8ad7c7fd80ae3b94a09a008b202ada32)
+
+### Day 62: August 12, 2022
+
+**Today's Progress**: Leetcode contest questions, intro to node, npm.
+
+**Link(s) to work**: 
+- DSA: [Day62](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day62)
