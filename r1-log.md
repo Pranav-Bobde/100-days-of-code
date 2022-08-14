@@ -432,3 +432,10 @@ So, no break day till 24 July now.
 
 **Link(s) to work**: 
 - DSA: [Day62](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day62)
+
+### Day 63: August 14, 2022
+
+**Today's Progress**: Cognizant Test, EJS project.
+
+**Link(s) to work**: 
+- Project: [EJS Project](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/7f48d32c0f794cf4fa2a576a0991fe0b5c6b31de)
