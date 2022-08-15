@@ -439,3 +439,11 @@ So, no break day till 24 July now.
 
 **Link(s) to work**: 
 - Project: [EJS Project](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/7f48d32c0f794cf4fa2a576a0991fe0b5c6b31de)
+
+### Day 64: August 15, 2022
+
+**Today's Progress**: Leetcode contest questions, Completed ejs-challenge.
+
+**Link(s) to work**: 
+- DSA: [Day64](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day64)
+- Project: [EJS Challenge](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/9640d52e012c401d733902e1d9abc0a3ec55d154)
