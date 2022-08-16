@@ -447,3 +447,11 @@ So, no break day till 24 July now.
 **Link(s) to work**: 
 - DSA: [Day64](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day64)
 - Project: [EJS Challenge](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/9640d52e012c401d733902e1d9abc0a3ec55d154)
+
+
+### Day 65: August 16, 2022
+
+**Today's Progress**: DP started. SQL, NOSQL, set-up & hands-on with mysql, mongodb.
+
+**Link(s) to work**: 
+- DSA: [Day65](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day65)
