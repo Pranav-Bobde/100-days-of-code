@@ -464,3 +464,11 @@ So, no break day till 24 July now.
 **Link(s) to work**: 
 - DSA: [Day66](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day66)
 - Project: [Todo App](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/56c40add4869b61bcbf8272be46137c547b15c6d)
+
+### Day 67: August 18, 2022
+
+**Today's Progress**: DP Knapsack Questions Done. Deployed my todo app with persistent data (MongoDB) - Heroku (Node), Atlas (MongoDB).
+
+**Link(s) to work**: 
+- DSA: [Day67](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day67)
+- Project: [Todo App](https://tododbapp.herokuapp.com/)
