@@ -472,3 +472,13 @@ So, no break day till 24 July now.
 **Link(s) to work**: 
 - DSA: [Day67](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day67)
 - Project: [Todo App](https://tododbapp.herokuapp.com/)
+
+### Day 68: August 19, 2022
+
+**Today's Progress**: DP LCS Questions. Added persistent data (MongoDB) for my blogApp. Learned and practiced encryption & security mechanisms.
+
+**Link(s) to work**: 
+- DSA: [Day68](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day68)
+- Project: 
+- [Blog App](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/b5db6f86bafbd981029daab524e17c17990e323b)
+- [Secrets App](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/b1ff2e5b4ca73d8377d0b8883abd8c33bd34a5ff)
