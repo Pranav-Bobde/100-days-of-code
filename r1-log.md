@@ -482,3 +482,11 @@ So, no break day till 24 July now.
 - Project: 
   - [Blog App](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/b5db6f86bafbd981029daab524e17c17990e323b)
   - [Secrets App](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/b1ff2e5b4ca73d8377d0b8883abd8c33bd34a5ff)
+
+### Day 69: August 20, 2022
+
+**Today's Progress**: DP Questions. Added OAuth & submit features in my secrets app.
+**Link(s) to work**: 
+- DSA: [Day69](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day69)
+- Project: 
+  - [Secrets App](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/1a2b43c1d622b8f9234cfe84a7b552b276b3e0ba)
