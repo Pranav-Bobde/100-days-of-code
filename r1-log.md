@@ -488,5 +488,4 @@ So, no break day till 24 July now.
 **Today's Progress**: DP Questions. Added OAuth & submit features in my secrets app.
 **Link(s) to work**: 
 - DSA: [Day69](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day69)
-- Project: 
-  - [Secrets App](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/1a2b43c1d622b8f9234cfe84a7b552b276b3e0ba)
+- Project: [Secrets App](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/1a2b43c1d622b8f9234cfe84a7b552b276b3e0ba)
