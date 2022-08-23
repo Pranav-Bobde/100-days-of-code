@@ -489,3 +489,12 @@ So, no break day till 24 July now.
 **Link(s) to work**: 
 - DSA: [Day69](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/InterviewBit/Day69)
 - Project: [Secrets App](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/1a2b43c1d622b8f9234cfe84a7b552b276b3e0ba)
+
+### Birthday Holiday - August 21, 2022
+
+### Day 70: August 22, 2022
+
+**Today's Progress**: Revision & Company Tests. Started React.
+
+**Link(s) to work**: 
+- Project: [React](https://codesandbox.io/s/react-components-practice-forked-0k9b5m?file=/src/Heading.jsx)
