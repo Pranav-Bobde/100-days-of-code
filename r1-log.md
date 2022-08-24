@@ -498,3 +498,8 @@ So, no break day till 24 July now.
 
 **Link(s) to work**: 
 - Project: [React](https://codesandbox.io/s/react-components-practice-forked-0k9b5m?file=/src/Heading.jsx)
+
+### Day 71: August 23, 2022
+
+**Today's Progress**: Revision & Accenture Test. React - ES modules, import/export, local env setup.
+
