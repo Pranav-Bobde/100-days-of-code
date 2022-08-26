@@ -511,3 +511,9 @@ So, no break day till 24 July now.
 **Link To Work**:
 - DSA [Day1](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day1)
 
+
+### Day 73: August 26, 2022
+
+**Today's Progress**: DSA Sheet questions, Dev: React props, useState, ES6 destructuring.
+**Link To Work**:
+- DSA [Day2](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day2)
