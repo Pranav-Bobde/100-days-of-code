@@ -507,7 +507,7 @@ So, no break day till 24 July now.
 
 ### Day 72: August 25, 2022
 
-**Today's Progress**: Revision & Accenture Test. React - ES modules, import/export, local env setup.
+**Today's Progress**: DSA sheet started, Dev: Tailwind CSS Basics.
 **Link To Work**:
 - DSA [Day1](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day1)
 
