@@ -503,3 +503,11 @@ So, no break day till 24 July now.
 
 **Today's Progress**: Revision & Accenture Test. React - ES modules, import/export, local env setup.
 
+### Rested: August 24
+
+### Day 72: August 25, 2022
+
+**Today's Progress**: Revision & Accenture Test. React - ES modules, import/export, local env setup.
+**Link To Work**:
+- DSA [Day1](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day1)
+
