@@ -517,3 +517,11 @@ So, no break day till 24 July now.
 
 **Link To Work**:
 - DSA [Day2](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day2)
+
+### Day 74: August 27, 2022
+
+**Today's Progress**: DSA Sheet questions, Dev: Finished Keeper App.
+
+**Link To Work**:
+- DSA [Day3](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day3)
+- DEV [Keeper App](https://github.com/Pranav-Bobde/Full-Stack-Journey/commit/ee05e6c19f1ba61479e91e90e400ef83d7df9b55)
