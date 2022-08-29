@@ -532,3 +532,10 @@ So, no break day till 24 July now.
 
 **Link To Work**:
 - DSA [Day4](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day4)
+
+### Day 76: August 29, 2022
+
+**Today's Progress**: DSA Sheet questions, Dev - APIs.
+
+**Link To Work**:
+- DSA [Day5](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day5)
