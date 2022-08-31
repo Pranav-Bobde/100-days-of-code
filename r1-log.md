@@ -539,3 +539,10 @@ So, no break day till 24 July now.
 
 **Link To Work**:
 - DSA [Day5](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day5)
+
+### Day 77: August 30, 2022
+
+**Today's Progress**: DSA, Sorting Algos.
+
+**Link To Work**:
+- DSA [Day6](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day6)
