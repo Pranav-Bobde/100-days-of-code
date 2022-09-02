@@ -554,3 +554,10 @@ So, no break day till 24 July now.
 **Link To Work**:
 - DSA [Day7](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day7)
 - DEV [Gmail Clone](https://github.com/Pranav-Bobde/gmail-clone/commit/d1ed295199906415ca2b18acb0cd902257a08332)
+
+### Day 79: September 1, 2022
+
+**Today's Progress**: Dev: Gmail-Clone: Sidebar added.
+
+**Link To Work**:
+- DEV [Gmail Clone](https://github.com/Pranav-Bobde/gmail-clone/commit/6daf929f9625ffc81d618eb31155b7825bfd0473)
