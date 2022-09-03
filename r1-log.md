@@ -561,3 +561,10 @@ So, no break day till 24 July now.
 
 **Link To Work**:
 - DEV [Gmail Clone](https://github.com/Pranav-Bobde/gmail-clone/commit/6daf929f9625ffc81d618eb31155b7825bfd0473)
+
+### Day 80: September 2, 2022
+
+**Today's Progress**: Sliding Window Qs
+
+**Link To Work**:
+- DSA [Day8](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day8)
