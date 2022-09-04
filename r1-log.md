@@ -568,3 +568,17 @@ So, no break day till 24 July now.
 
 **Link To Work**:
 - DSA [Day8](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day8)
+
+### Day 81: September 3, 2022
+
+**Today's Progress**: Sliding Window Qs, Dev: almost finished with the 
+
+**Link To Work**:
+- DEV [GMAIL](https://github.com/Pranav-Bobde/gmail-clone/commit/d4dbe2cf3ac7531be916278bcd54ccdb86b57afb)
+
+### Day 82: September 4, 2022
+
+**Today's Progress**: Sliding Window Qs, Dev: almost finished with the gmail-clone, just facing some cors issues will resolve tomorrow.
+
+**Link To Work**:
+- DSA [Day8](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day8)
