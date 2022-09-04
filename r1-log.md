@@ -571,7 +571,7 @@ So, no break day till 24 July now.
 
 ### Day 81: September 3, 2022
 
-**Today's Progress**: Sliding Window Qs, Dev: almost finished with the 
+**Today's Progress**: Sliding Window Qs, Dev: added the email list components.
 
 **Link To Work**:
 - DEV [GMAIL](https://github.com/Pranav-Bobde/gmail-clone/commit/d4dbe2cf3ac7531be916278bcd54ccdb86b57afb)
