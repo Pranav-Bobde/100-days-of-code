@@ -589,5 +589,5 @@ So, no break day till 24 July now.
 **Today's Progress**: Sliding Window Qs, Dev: finished gmail-clone.
 
 **Link To Work**:
-- DSA [Day8](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day9)
+- DSA [Day9](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day9)
 - GMAIL-CLONE [Gmail Clone](https://github.com/Pranav-Bobde/gmail-clone)
