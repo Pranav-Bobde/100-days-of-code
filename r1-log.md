@@ -605,3 +605,11 @@ So, no break day till 24 July now.
 
 **Link To Work**:
 - DSA [Day11](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day11)
+
+### Day 86: September 8, 2022
+
+**Today's Progress**: Revised & Solved DSA Qs, Dev: Completed & Deployed Medium-clone.
+
+**Link To Work**:
+- DSA [Day12](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day12)
+- DEV [Medium-Clone](https://github.com/Pranav-Bobde/medium-clone)
