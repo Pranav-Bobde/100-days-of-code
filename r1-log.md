@@ -613,3 +613,10 @@ So, no break day till 24 July now.
 **Link To Work**:
 - DSA [Day12](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day12)
 - DEV [Medium-Clone](https://github.com/Pranav-Bobde/medium-clone)
+
+### Day 87: September 9, 2022
+
+**Today's Progress**: Revised & Solved DSA Qs, Dev: NextJs Fundamentals.
+
+**Link To Work**:
+- DSA [Day13](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day13)
