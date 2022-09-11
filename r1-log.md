@@ -620,3 +620,10 @@ So, no break day till 24 July now.
 
 **Link To Work**:
 - DSA [Day13](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day13)
+
+### Day 88: September 10, 2022
+
+**Today's Progress**: Revised & Solved DSA Qs, Dev: Started Instagram Clone.
+
+**Link To Work**:
+- DSA [Day14](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day14)
