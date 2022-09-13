@@ -627,3 +627,19 @@ So, no break day till 24 July now.
 
 **Link To Work**:
 - DSA [Day14](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day14)
+
+### Day 89: September 11, 2022
+
+**Today's Progress**: DSA Qs, Dev: Completed Header Section.
+
+**Link To Work**:
+- DSA [Day15](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day15)
+- DEV [IG-Clone](https://github.com/Pranav-Bobde/instagram-clone/commit/65ea0d40c11b2a9117f5902afde527fb3461f970)
+
+### Day 90: September 12, 2022
+
+**Today's Progress**: Solved DSA Qs, Dev: Completed Feed Section.
+
+**Link To Work**:
+- DSA [Day16](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day16)
+- DEV [IG-Clone](https://github.com/Pranav-Bobde/instagram-clone/commit/f67e60e68630f4517bcaa09cc111bc90fe07ca90)
