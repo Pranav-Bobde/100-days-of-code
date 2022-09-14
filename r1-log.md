@@ -643,3 +643,10 @@ So, no break day till 24 July now.
 **Link To Work**:
 - DSA [Day16](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day16)
 - DEV [IG-Clone](https://github.com/Pranav-Bobde/instagram-clone/commit/f67e60e68630f4517bcaa09cc111bc90fe07ca90)
+
+### Day 91: September 14, 2022
+
+**Today's Progress**: Solved DSA Qs, Dev: created firebase project, added nexthAuth (singin Page in Development).
+
+**Link To Work**:
+- DSA [Day17](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day17)
