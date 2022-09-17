@@ -650,3 +650,12 @@ So, no break day till 24 July now.
 
 **Link To Work**:
 - DSA [Day17](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day17)
+
+### Day 92: September 15, 2022
+
+**Today's Progress**: Dev: Autentication Completed.
+
+**Link To Work**:
+- DEV [IG-Clone](https://github.com/Pranav-Bobde/instagram-clone/commit/ec8e775181e2717ed0446e8f531e5a546bc5d845)
+
+
