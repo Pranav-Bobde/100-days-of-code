@@ -673,3 +673,10 @@ So, no break day till 24 July now.
 **Link To Work**:
 - DSA [Day19](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day19)
 - DEV [IG-Clone](https://github.com/Pranav-Bobde/instagram-clone)
+
+### Day 95: September 18, 2022
+
+**Today's Progress**: Solved DSA Qs. DEV: Explored VueJs, Hackathons...
+
+**Link To Work**:
+- DSA [Day20](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day20)
