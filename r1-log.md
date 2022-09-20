@@ -680,3 +680,11 @@ So, no break day till 24 July now.
 
 **Link To Work**:
 - DSA [Day20](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day20)
+
+
+### Day 96: September 19, 2022
+
+**Today's Progress**: Solved DSA Qs.
+
+**Link To Work**:
+- DSA [Day21](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day21)
