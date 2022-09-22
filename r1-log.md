@@ -689,9 +689,16 @@ So, no break day till 24 July now.
 **Link To Work**:
 - DSA [Day21](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day21)
 
-### Day 96: September 20, 2022
+### Day 97: September 20, 2022
 
 **Today's Progress**: DEV: First Vue App
 
 **Link To Work**:
 - DEV [Vue App](https://github.com/Pranav-Bobde/Full-Stack-Journey/tree/main/first-vue-app)
+
+### Day 98: September 21, 2022
+
+**Today's Progress**: Solved DSA Qs.
+
+**Link To Work**:
+- DSA [Day22](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day22)
