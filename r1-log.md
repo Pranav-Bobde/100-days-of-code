@@ -702,3 +702,17 @@ So, no break day till 24 July now.
 
 **Link To Work**:
 - DSA [Day22](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day22)
+
+--- Did work in these days to but well....
+
+
+### Day 97: September 24, 2022
+
+**Today's Progress**: DEV: A lot of Vue
+
+### Day 100: September 26, 2022
+
+**Today's Progress**: Solved DSA Qs. DEV: Vue (Music App), Composition API, Pinia.
+
+**Link To Work**:
+- DSA [Day23](https://github.com/Pranav-Bobde/DSA-Logs/tree/main/DSA-Sheet/Day23)
